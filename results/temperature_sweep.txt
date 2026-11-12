@@ -1,0 +1,18 @@
+================================================================================
+BABYLON — CLIMATE TIPPING CASCADES — D vs WARMING LEVEL
+Capacity line: D = 3.03  |  Above → CASCADE RISK  |  Below → INDEPENDENTLY ADDRESSABLE
+================================================================================
+
+ Warming         D  Verdict          TC   Edges    #1 Element    Bill  Note
+─────────────────────────────────────────────────────────────────────────────────────
+    0.5°C      1.96  MODULAR        2.17      24          ASIC   0.547  
+    1.0°C      1.90  MODULAR        2.02      24          ASIC   0.591  ← Arctic sea ice + reefs at threshold
+    1.2°C      1.94  MODULAR        1.98      24           GIS   0.587  ← CURRENT WARMING
+    1.5°C      1.87  MODULAR        2.03      24           GIS   0.588  ← Paris Agreement target
+    2.0°C      2.12  MODULAR        2.16      24           GIS   0.535  ← Paris upper limit
+    2.5°C      2.21  MODULAR        2.19      24           GIS   0.527  
+    3.0°C      2.18  MODULAR        2.21      24           GIS   0.520  ← Current policy trajectory
+    4.0°C      2.18  MODULAR        2.21      24           GIS   0.520  ← High emissions scenario
+    5.0°C      2.18  MODULAR        2.21      24           GIS   0.520  ← Worst case
+
+  The climate system remains MODULAR at all analyzed temperatures.

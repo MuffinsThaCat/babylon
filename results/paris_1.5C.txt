@@ -1,0 +1,45 @@
+===========================================================================
+BABYLON — CLIMATE TIPPING CASCADE ANALYSIS — 1.5°C warming
+===========================================================================
+
+  Halving depth D = 1.87    [MODULAR (tipping points addressable independently)]
+  Capacity line:    3.03
+  Total correlation: 2.03
+  Tipping elements: 15
+  Active couplings: 24
+
+  TIPPING ELEMENT BILL RANKING (cascade contribution)
+  ─────────────────────────────────────────────────────────────────
+  Rank  Element Name                               Bill  Module  Threshold
+     1  GIS    Greenland Ice Sheet              0.5878       0  1.5°C ← TIPPING
+     2  ASIC   Arctic summer sea ice            0.5137       2  1.0°C ← TIPPING
+     3  AMOC   Atlantic circulation             0.4959       0  1.5°C ← TIPPING
+     4  PFST   Permafrost collapse              0.4285       2  1.5°C ← TIPPING
+     5  AMAZ   Amazon rainforest                0.2122       4  2.0°C ← AT RISK
+     6  REEF   Coral reef die-off               0.1846       4  1.0°C ← TIPPING
+     7  ENSO   El Nino intensification          0.1362       4  2.0°C ← AT RISK
+     8  WAIS   West Antarctic Ice Sheet         0.1316       0  1.5°C ← TIPPING
+     9  ISM    Indian summer monsoon            0.1242       3  2.0°C ← AT RISK
+    10  BORF   Boreal forest                    0.1137       2  3.0°C
+    11  TBET   Tibetan plateau glaciers         0.0621       3  1.5°C ← TIPPING
+    12  WAM    West African monsoon             0.0527       5  2.5°C
+    13  EAIS   East Antarctic subglacial        0.0148       1  3.0°C
+    14  ALGL   Mountain glaciers                0.0065       3  1.5°C ← TIPPING
+    15  SAHA   Sahel/Sahara greening            0.0064       5  2.5°C
+
+  MODULE STRUCTURE (coupling clusters)
+  ─────────────────────────────────────────────────────────────────
+  Module  0: GIS, AMOC, WAIS                          [Cryosphere, Circulation]
+            Greenland Ice Sheet, Atlantic circulation, West Antarctic Ice Sheet
+  Module  1: EAIS                                     [Cryosphere]
+            East Antarctic subglacial
+  Module  2: ASIC, PFST, BORF                         [Cryosphere, Carbon cycle, Biosphere]
+            Arctic summer sea ice, Permafrost collapse, Boreal forest
+  Module  3: ALGL, ISM, TBET                          [Cryosphere, Circulation]
+            Mountain glaciers, Indian summer monsoon, Tibetan plateau glaciers
+  Module  4: AMAZ, REEF, ENSO                         [Biosphere, Circulation]
+            Amazon rainforest, Coral reef die-off, El Nino intensification
+  Module  5: WAM, SAHA                                [Circulation, Biosphere]
+            West African monsoon, Sahel/Sahara greening
+
+  Residual at each level: 0.402, 0.233, 0.054
